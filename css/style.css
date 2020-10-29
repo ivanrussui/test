@@ -1,0 +1,43 @@
+body {
+	box-sizing: border-box;
+	margin: 0;
+}.box {
+	background-color: indigo;
+	width: 200px;
+	height: 200px;
+	color: gold;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 25px;
+}
+.box2 {
+	background-color:gold; 
+	width: 200px;
+	height: 200px;
+	color: indigo;
+	font-style: italic;
+	font-size: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+body {
+	border: 5px solid indigo;
+	display: flex;
+	display: block;
+	margin-left: 0;
+	margin-right: 0;
+}
+.hello {
+	vertical-align: middle;
+	text-align: center;
+	color: indigo;
+	border: 3px solid gold;
+	font-size: 22px;
+	padding: 44px;
+}
+main{
+	display: flex;
+	justify-content: space-between;
+}

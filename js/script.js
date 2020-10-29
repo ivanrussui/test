@@ -23,6 +23,8 @@ console.log(myFrends.push('shredder'));
 
 console.log(myFrends[4]);
 
+const fitnes = 'honor';
 
+console.log(fitnes);
 
 
